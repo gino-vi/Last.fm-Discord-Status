@@ -4,4 +4,4 @@ This script will set your Discord rich presence to whatever you're listening to 
 
 ![Screenshot](https://i.imgur.com/loHCQao.png)
 
-To set it up, read on.
+## **1. Last.fm API key and Secret**
