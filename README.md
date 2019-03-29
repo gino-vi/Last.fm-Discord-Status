@@ -11,4 +11,4 @@ Head over to https://www.last.fm/api/account/create and create an API account. I
 
 ![Screenshot](https://i.imgur.com/mO4YkSk.png)
 
-Copy and paste the API Key as well as the Shared secret value into info.ini in the `API_KEY = ` line and `API_SECRET = ` line.
+Copy and paste the API Key as well as the Shared secret value into info.ini in the `API_KEY =` line and `API_SECRET =` line.
