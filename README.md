@@ -1,4 +1,5 @@
 # Last.fm-Discord-Status
+Uses [pypresence](https://github.com/qwertyquerty/pypresence) and [pylast](https://github.com/pylast/pylast)
 
 This script will set your Discord rich presence to whatever you're listening to on last.fm, like so:
 
