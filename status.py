@@ -28,10 +28,10 @@ network = pylast.LastFMNetwork(api_key=API_KEY, api_secret=API_SECRET,
                                username=username, password_hash=password_hash)
 
 # discord information
-image = config['discord']['image'] #fetches image from your rich presence assets
+image = config['discord']['image'] # fetches image from your rich presence assets
 client_id = config['discord']['client_id']
-RPC = Presence(client_id)  # Initialize the client class
-RPC.connect() # Start the handshake loop
+RPC = Presence(client_id) 
+RPC.connect() 
 
 logging.basicConfig(level=logging.DEBUG)
 seconds_ago = int(time.time())
