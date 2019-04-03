@@ -17,3 +17,6 @@ Head over to https://www.last.fm/api/account/create and create an API account. I
 Copy and paste the API Key as well as the Shared secret value into info.ini in the `API_KEY =` line and `API_SECRET =` line.
 
 ## **2. Discord Client ID**
+Next, go to https://discordapp.com/developers/ and press the New Application button. Take note that the name you set for the application will be what you'll be "Playing".
+
+Under the name of your application will be the client ID, put it into the `client_id =` line in info.ini.
