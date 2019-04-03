@@ -17,7 +17,7 @@ Head over to https://www.last.fm/api/account/create and create an API account. I
 Copy and paste the API Key as well as the Shared secret value into info.ini in the `API_KEY =` line and `API_SECRET =` line.
 
 ## **2. Last.fm Account Information**
-Enter your last.fm username and password in the `username = ` and `password = ` lines respectively in info.ini. This will be used to connect to the network.
+Enter your last.fm username and password in the `username = ` and `password = `  lines respectively in info.ini. This will be used to connect to the network.
 
 ## **3. Discord Client ID**
 Then, go to https://discordapp.com/developers/ and press the New Application button. Take note that the name you set for the application will be what you'll be "Playing".
