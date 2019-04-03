@@ -23,3 +23,6 @@ Enter your last.fm username and password in the `username = ` and `password = ` 
 Then, go to https://discordapp.com/developers/ and press the New Application button. Take note that the name you set for the application will be what you'll be "Playing".
 
 Under the name of your application will be the client ID, put it into the `client_id =` line in info.ini.
+
+## **4. Image**
+Discord allows you to upload art assets for usage. From your app page in the Developer Portal, click on Rich Presence and then Art Assets. Upload the image you want to use, and then fill it out under the `image = ` line in info.ini. 
